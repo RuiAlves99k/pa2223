@@ -1,0 +1,29 @@
+ [
+    {
+      "idBuilding": 1,
+      "idSchool": 1,
+      "name": "Polo Barcelos"
+    },
+    {
+      "idBuilding": 2,
+      "idSchool": 2,
+      "name": "Polo Barcelos"
+    },
+    {
+      "idBuilding": 3,
+      "idSchool": 3,
+      "name": "Polo Barcelos"
+    },
+    {
+      "idBuilding": 4,
+      "idSchool": 1,
+      "name": "Polo Guimarães"
+    },
+    {
+      "idBuilding": 5,
+      "idSchool": 2,
+      "name": "Polo Famalicão"
+    }
+
+  ]
+
